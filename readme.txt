@@ -1,0 +1,1 @@
+описание см. в acEhLibPainter.h
